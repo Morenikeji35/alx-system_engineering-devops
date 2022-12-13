@@ -4,3 +4,4 @@ Tasks
 
 0. <0>: Creates a script that creates an alias
 1. Hello you: Create that prints hello user, where user is the current linux user
+2. The path to success is to take massive determined action: Add /action to the PATH
